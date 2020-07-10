@@ -5,21 +5,21 @@ Practcing JQuery by building a simplify version of https://jsbin.com/?html,outpu
 
 ## What I learnt 
 
-:white_check_mark: contents()
+contents()
 
-:white_check_mark: filter()
+filter()
 
-:white_check_mark: find()
+find()
 
-:white_check_mark: change()
+change()
 
-:white_check_mark: on()
+on()
 
-:white_check_mark: attr()
+attr()
 
-:white_check_mark: toggleClass()
+toggleClass()
 
-:white_check_mark: eval()
+eval()
 
 
 
